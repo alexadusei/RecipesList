@@ -1,0 +1,101 @@
+9/20/2014 14:06:32|British Scones|Breads/Muffins|http://eugeniekitchen.com/british-scones/|
+9/21/2014 14:00:37|Raju's Penne Arrabiata|Pasta|http://54.68.137.4/0rp23/Assignment2/PenneRecipe.html|
+9/22/2014 16:32:56|The Ultimate Brownie Recipe|Dessert|http://54.68.137.236/13jl/recipe.html|
+9/23/2014 11:52:47|Jenn's Garden Salad|Salad|http://54.68.136.192/9jjqp/GardenSalad.html|
+9/23/2014 12:54:19|Vegan Banana & Strawberry Ice Cream|Dessert|http://54.68.137.97/14far3/recipe.html|
+9/24/2014 15:47:51|Fondue Savoyarde|Other|54.68.138.116/14vm11/Recipe/Recipe.html|
+9/24/2014 15:54:22|Hannah's Chicken Parmesan|Pasta|54.68.134.240/11hah7/Asst2.html|
+9/24/2014 17:55:48|Shrimp Stir-Fry|Pasta|http://54.68.134.246/12sjk11/MyFavouriteRecipe.html|
+9/24/2014 18:27:02|Mark's Maple Syrup Salmon|Meat/Fish/Poultry|http://54.68.137.204/9mws/cooking.html|
+9/24/2014 21:24:56|Dope Mexican Pizza|Other|http://54.68.135.15/11mme2/Assign2/Recipe.html|
+9/26/2014 14:17:35|Leek and Potato Soup|Soup|http://54.68.137.72/12ejw3/Assignment%202/index.html|
+9/26/2014 15:59:59|British Scones|Breads/Muffins|http://54.68.134.148/0nh13/A2/Assignment2.html|
+9/27/2014 11:05:34|Coffee Cup Quiche Recipe|Appetizer|http://54.68.137.66/12rjw2/A2/A2.html|
+9/27/2014 15:40:07|Cinnamon Buns|Dessert|http://54.68.137.65/9rgs/CinnamonBun.html|
+9/27/2014 17:17:13|Chicken Noodle Soup Recipe|Meat/Fish/Poultry|http://54.68.82.18/0jaca/recipe/chickennoodlesoup.html|
+9/27/2014 17:17:41|Chicken Pot Pie Recipe|Meat/Fish/Poultry|http://54.68.82.18/0jaca/recipe/recipe.html|
+9/28/2014 14:27:58|Alex's Chicken PadThai Recipe|Pasta|http://54.68.138.104/12kaw3/MyFavoriteRecipe/MyFavoriteRecipe.html|
+9/28/2014 14:30:24|Lemon Meringue Pie Recipe|Dessert|http://54.68.134.162/13dktl/Assignment%202/Lemon%20Meringue%20Pie.html|
+9/28/2014 14:39:40|Garfield's cookies|Dessert|http://54.68.134.119/14bge2/CookBook/Recipe.html|
+9/28/2014 16:00:39|Teriyaki chicken|Meat/Fish/Poultry|http://54.68.134.122/12dl38/Assignment2/teriyaki.html|
+9/28/2014 17:30:53|Red Velvet Cake Recipe|Dessert|http://54.68.136.198/1xw8/Assignment 2/Assignment 2.html|
+9/28/2014 21:56:56|Delicious basic cake by 10111872|Dessert|http://54.68.137.27/13mchm/Cisc282Assignment.html|
+9/28/2014 22:10:40|Chicken Adobo|Meat/Fish/Poultry|http://54.68.135.62/12jh42/Assignment%202/CISC282Assign2.html|
+9/29/2014 10:56:31|Chicken Congee|Soup|http://54.68.137.226/12jy30/Assignment2.html|
+9/29/2014 11:08:18|Saucy Pulled Pork|Meat/Fish/Poultry|http://54.68.137.116/12mar13/CISC282Assignment2.html|
+9/29/2014 12:58:54|Scallop And Corn Gyoza Recipe|Appetizer|http://54.68.97.155/12xq4/Dumpling.html|
+9/29/2014 14:10:19|Peter's Kimchi Fried Rice|Other|http://54.68.135.25/12sj16/recipe.html|
+9/29/2014 15:08:26|How to make a Sanswich|Other|http://54.68.109.181/13eb10/MainPage.html|
+9/29/2014 16:01:19|Pepperoni Pizza Cake|Other|http://54.68.133.235/13cte/Assignment2.html|
+9/29/2014 16:35:03|Spicy Spaghetti|Pasta|http://54.68.134.135/12rc51/recipe.html|
+9/29/2014 16:52:21|Jacob's Stolen Smashing Pumpkin Soup|Soup|http://jacobandreou.com/282-0JA8/recipe/|
+9/29/2014 18:01:29|Beef Bokchoy Egg Fried Rice|Other|http://54.68.127.221/13spt1/assignment2.html|
+9/29/2014 18:40:25|Creamy Mushroom Pasta with Chicken|Pasta|http://54.68.138.111/13daa/myRecipe.html|
+9/29/2014 19:07:22|Chicken Fettuccine Alfredo|Pasta|54.68.134.99/0jpf2/recipe.html|
+9/29/2014 20:07:13|Tom's Grandma's Apple Pie Recipe|Dessert|http://54.68.56.142/9tjp2/Assignment2/index.html|
+9/30/2014 1:40:33|Simon Zhang's Red Potato Salad|Salad|http://54.68.138.88/13skhz/potato-salad-recipe.html|
+9/30/2014 11:29:45|Kraft Dinner|Pasta|http://54.68.134.142/12gb27/Main.html|
+9/30/2014 12:36:43|Delicious Pancakes|Breads/Muffins|http://54.68.33.189/11ss108/PancakeRecipe.html|
+9/30/2014 12:36:56|Haydn's Chocolate Chip Cookies|Dessert|http://54.68.73.221/12hjh1/HaydnsChocolateChipCookies.html|
+9/30/2014 15:43:54|Gluten Free Spinach & Polenta Soufflé|Other|http://54.68.134.111/0pb16/Assignment2/Assignment2.html|
+9/30/2014 16:47:24|Nikujaga|Meat/Fish/Poultry|http://54.68.135.65/1jpc/ass1.html|
+9/30/2014 18:04:29|Honey Dijon Chicken|Meat/Fish/Poultry|http://54.68.137.39/12nsp/Assignment2/Assignment_2.html|
+9/30/2014 18:04:53|Nuwan's Honey Dijon Chicken|Meat/Fish/Poultry|http://54.68.137.39/12nsp/Assignment2/Assignment_2.html|
+9/30/2014 18:38:44|Korean Bulgogi|Meat/Fish/Poultry|http://54.68.196.214/9jho/KoreanBulgogi.html|
+9/30/2014 18:40:13|Sean's Rocking Guacamole!|Appetizer|http://54.68.136.228/swp/A2/A2.html|
+9/30/2014 18:50:28|Black Beans and Tomatoes|Soup|http://www.rileykarson.me/12rk48/recipe/recipe.html|
+9/30/2014 18:57:09|Nanaimo Bars|Dessert|cisc282.hopto.org|
+9/30/2014 19:03:36|Mushroom Risotto|Pasta|http://54.68.136.226/13nhs/Recipe.html|
+9/30/2014 19:12:19|Broiled Lobster Tails|Meat/Fish/Poultry|http://54.68.58.76/12aa100/assignment2/recipe.html|
+9/30/2014 19:42:41|Chewy Fudgy Homemade Brownies|Dessert|http://54.68.137.107/1sjs2/CISC282-Assignment2.html|
+9/30/2014 19:52:35|Perfect Pumpkin Pie|Dessert|http://54.68.136.216/13asm2/Recipe.html|
+9/30/2014 20:15:05|Mom's Chicken Rice Casserole|Meat/Fish/Poultry|http://54.68.134.145/13va8/MomsChickenRiceCasserole.html|
+9/30/2014 20:20:21|Peasant Bread|Breads/Muffins|http://54.68.134.56/12ng2/Assignment2/Assignment%202%20Neven%20Golubovich%2010062175.html|
+9/30/2014 20:22:35|Jake's Pulled Pork|Meat/Fish/Poultry|http://54.68.134.62/0jcb7/Assn2.html|
+9/30/2014 21:13:56|Murgh Do Pyaaza|Meat/Fish/Poultry|http://54.68.136.206/14tp17/CISC282_Assignment2/CISC282_Assignment2.html|
+9/30/2014 21:20:23|Sweet Potato Casserole|Vegetable Side Dish|http://54.68.137.210/11emp8/ElenaPakka_Assignment2.html|
+9/30/2014 21:42:11|Mushroom Risotto|Other|http://54.68.137.229/13alp2/Assignment2.html|
+9/30/2014 21:55:33|Chocolate Fudge Cake|Dessert|http://54.68.134.146/9mza/Cisc282Assignment2/FudeCakeRecipe.html|
+9/30/2014 23:03:21|Salted Caramel Brownies|Dessert|http://54.68.134.45/9syh3/brownies.html|
+9/30/2014 23:54:01|>< Powerpuff girls|Other|http://http://54.68.136.215/11tw22/Recipe.html|
+10/1/2014 0:47:23|Slippery Egg & Shrimp over Rice|Other|http://54.68.137.3/0yy/Recipe.html|
+10/1/2014 2:15:56|Sriracha Shrimp|Appetizer|http://54.68.134.76/9lh25/Recipe.html|
+10/1/2014 2:39:27|Tropical Fruit Salad|Salad|http://54.68.137.10/13ny/assignment%202.html|
+10/1/2014 6:53:30|Flourless Fruit Crumble|Dessert|http://54.68.134.208/11hd3/newAssignment2.html|
+10/1/2014 7:53:16|Chocolate Chip Cookies|Dessert|http://54.68.134.127/13ca4/Assignment2/Cookies.html|
+10/1/2014 9:52:09|The Toughest Protein Shake Ever!|Other|http://54.68.87.32/13cb10/CISC282_assignment2/CISC282_Assignment2_CameronBrown_10107853.html|
+10/1/2014 10:07:43|Nicholas Smith's Orange Soya Sauce Steak|Meat/Fish/Poultry|http://54.68.137.117/12nws/OrangeSoyaSauceSteak.html|
+10/1/2014 10:26:53|Strawberry English Trifle|Dessert|http://54.68.136.230/12cem/html_root/index.html|
+10/1/2014 10:31:29|Ryan's Waffle Recipe|Other|http://54.68.134.140/0rh7/WaffleRecipe.html|
+10/1/2014 10:41:15|Oven Chicken Fajitas|Meat/Fish/Poultry|http://54.68.134.15/8kde/OvenFajitas.html|
+10/1/2014 11:22:20|Egg and Spam Ramen|Other|http://54.68.137.230/9cn12/recipe.html|
+10/1/2014 11:22:46|Hard Shell Beef Taco|Other|http://54.68.137.111/0ss81/HardShellBeefTaco.html|
+10/1/2014 11:29:34|Breaded Fried Chicken Recipe|Meat/Fish/Poultry|http://54.68.203.169/13itl1/FriedChickenRecipe.html|
+10/1/2014 11:32:58|John Martin's Broccoli and Cheese Soup|Soup|http://54.68.137.104/12jjm4/My%20Favorite%20Recipe.html|
+10/1/2014 11:54:49|Stefan's Carbonara Recipe|Pasta|http://54.68.137.101/1fskm/Main.html|
+10/1/2014 12:28:06|Crazy Al's fettucine Alredo|Pasta|http://54.68.135.11/13krl1/MyFavouriteRecipe.html|
+10/1/2014 12:32:58|Shepherd's Pie|Meat/Fish/Poultry|http://54.68.53.61/0zsja/Recipe2.html|
+10/1/2014 12:38:44|Saarangan's Glazed Doughnut Holes Recipe|Other|http://54.68.134.239/12sj/Assignment%202.html|
+10/1/2014 12:39:57|Eggs Benedict|Other|http://54.68.134.57/11rh46/Recipe2.html|
+10/1/2014 12:40:09|Eggs Benedict|Other|http://54.68.134.57/11rh46/Recipe2.html|
+10/1/2014 12:43:22|Peter's Maple Pumpkin Gingersnaps|Dessert|http://54.68.135.2/0pb10/pumpcooks.html|
+10/1/2014 12:59:42|Taiwanese Beef Noodle Soup|Soup|54.68.134.61/1nl6/assign2.html|
+10/1/2014 13:00:06|Basic Crepes Recipe|Dessert|http://54.68.134.151/13jdjd/Assignment2(RecipeSite)/BasicCrepesRecipe.html|
+10/1/2014 13:08:06|Wine & Fruit Cocktails|Beverages|http://54.68.137.8/9sp55/winefruitcocktails.html|
+10/1/2014 13:16:21|Bolognese|Other|http://54.68.137.11/13gys/recipe.html|
+10/1/2014 13:29:40|Kristian's Enhanced Ramen Recipe|Soup|http://54.68.135.72/13kal1/Assignment2/Assignment213kal1.html|
+10/1/2014 13:34:50|Golden Gate Chili Ribs Recipe|Meat/Fish/Poultry|http://54.68.134.114/13syeb/282-1.html|
+10/1/2014 13:35:28|Apple Sauce Cake|Dessert|http://54.68.137.24/9cjwm/AppleSauceCake.html|
+10/1/2014 13:39:00|French Toast|Breads/Muffins|http://54.68.136.242/13pm3/Assignment2/FrenchToast.html|
+10/1/2014 13:40:32|Belgian Waffles|Dessert|http://54.68.134.129/8hsk/assign2/belgianwaffles.html|
+10/1/2014 13:45:54|All Recipes' Touchdown Pizza|Pasta|http://54.68.138.87/0qy1/cisc282Assgn.html|
+10/1/2014 13:46:28|Biscuit - Topped Beef and Corn Casserole Recipe|Other|http://54.68.10.34/13and/Assignment2B.html|
+10/1/2014 13:53:02|Chocolate Malt Cupcakes|Dessert|http://54.68.138.102/9lkah/Recipe.html|
+10/1/2014 13:54:11|Fred's Fried Rice Recipe|Other|http://54.68.135.5/9ff11/282Ass1.html|
+10/1/2014 14:03:01|Classy Breakfast Bread|Breads/Muffins|http://54.68.137.237/13slm5/Muma_Assignment2.html|
+10/1/2014 14:04:25|Cedar-Plank Salmon with Brown Sugar and Cracked Pepper|Meat/Fish/Poultry|http://54.68.134.211/9ad39/a2/|
+10/1/2014 14:24:35|Kaelyn's Croissant Recipe|Breads/Muffins|http://54.68.136.225/8kys/croissant.html|
+10/1/2014 14:35:36|Adam Chirnside's Cheese cake|Dessert|54.68.134.59/7atrc/2/index.html|
+10/1/2014 19:42:11|Josh Butcher's Pulled Pork|Meat/Fish/Poultry|http://54.68.138.92/0jlb8/Assignment2/html/index.html|
+10/2/2014 12:08:48|Butter Chicken|Meat/Fish/Poultry|http://54.68.137.239/13vs9/Assignment2.html|
+10/2/2014 15:24:24|Jordan's Borrowed Coq Au Vin (via The Food Network)|Meat/Fish/Poultry|http://54.68.128.125/9jmr1/cookbook3.html|
